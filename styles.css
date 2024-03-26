@@ -1,0 +1,38 @@
+* {
+  text-align: center;
+}
+
+body {
+  background-image: url(https://images.unsplash.com/photo-1556911220-bff31c812dba?q=80&w=3068&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-size: cover;
+  /* background-position: center; */
+}
+
+.header {
+  background-color: papayawhip;
+  text-decoration: underline;
+  padding: 8px;
+  margin: 8px auto;
+  width: 300px;
+  border-color: black;
+  border-style: solid;
+  border-radius: 20pt;
+}
+
+.recipe {
+  font-size: 24px;
+  background-color: lightcyan;
+  margin: 5px;
+  width: 290px;
+  border-radius: 10pt;
+  border-style: solid;
+  border-width: 2pt;
+  border-color: lightblue;
+}
+
+ul {
+  list-style-type: none;
+  padding: 8px;
+  margin: 8px auto;
+  width: 300px;
+}

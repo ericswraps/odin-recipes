@@ -8,4 +8,4 @@ You can check out the webpage [here](https://ericswraps.github.io/odin-recipes/)
 
 ## Tech Stack
 
-**Client:** HTML
+**Client:** HTML, CSS
